@@ -10,6 +10,9 @@ __pycache__/
 *.csv
 *.pkl
 
+# test bench notebooks
+*helper.ipynb
+
 # Distribution / packaging
 .Python
 *.vscode/
