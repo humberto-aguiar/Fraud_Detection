@@ -10,6 +10,10 @@ __pycache__/
 *.csv
 *.pkl
 
+# MLflow
+*/mlruns
+/data/processed/
+
 # test bench notebooks
 *helper.ipynb
 
